@@ -1,5 +1,8 @@
 # shopping-list-app
 
+Disclaimer: This app is a school project from root-level web development course
+and this is visible from the style of code. No framework was used.
+
 IMPORTANT! The database that the app uses will not be accessible from 06.12.2023
 onwards. After that, the app can only be used locally. All the JS code for the
 app can be found from the folder 'shopping-lists'.
